@@ -4,7 +4,7 @@
 ```
 ## Link Github Repo:
 ```sh
-
+https://github.com/dianaBogado16/Segunda-entrega-IT.git
 ```
 
 ## Link Netlify :  
