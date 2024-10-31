@@ -1,0 +1,25 @@
+.enfasis {
+    text-align: center;
+    color: #ff0035 ;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.subtitulo {
+    font-family: "Oswald", sans-serif;
+    color: #38405f;
+}
+
+.subtitulos-chicos {
+    font-family: "Oxanium", sans-serif;
+    color: #0e131f;
+}
+
+.subseccion {
+    color: #61656A;
+}
+
+.palabra-importante {
+    color: #3514BA;
+}

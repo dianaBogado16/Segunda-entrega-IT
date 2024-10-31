@@ -1,22 +1,14 @@
-# Trabajando con VITE
-
-
-# Creo el esqueleto 
+## Nombre:
 ```sh
-npm create vite@latest ./
+ Diana Bogado
+```
+## Link Github Repo:
+```sh
+
 ```
 
-# Instalo las dependencias
+## Link Netlify :  
 ```sh
-npm install
+
 ```
 
-## Arranco el servidor de desarrollo
-
-```sh
-npm run dev
-```
-
-## Detengo el servidor de desarrollo
-
-ctrl + c    
